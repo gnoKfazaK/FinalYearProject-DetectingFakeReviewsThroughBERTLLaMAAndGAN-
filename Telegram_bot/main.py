@@ -7,7 +7,7 @@ import time
 import torch
 
 NEED_TO_TYPE_COMMAND_EVERYTIME = False
-API_TOKEN = 'IWONTELAKMYAPITOKENTHISTIME!'
+API_TOKEN = 'I love GitGuardian <3'
 model_path = '../best_model.pt'
 
 def classifier(text):
@@ -71,6 +71,7 @@ if __name__ == '__main__':
         time.sleep(10)
 
     
+
 
 
 
