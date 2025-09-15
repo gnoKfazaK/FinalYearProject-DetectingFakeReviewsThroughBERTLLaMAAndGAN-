@@ -7,7 +7,7 @@ import time
 import torch
 
 NEED_TO_TYPE_COMMAND_EVERYTIME = False
-API_TOKEN = '7647696296:AAGiJi0Moko0J5y2AP0wUgNwzRKtswi19Dg'
+API_TOKEN = 'IWONTELAKMYAPITOKENTHISTIME!'
 model_path = '../best_model.pt'
 
 def classifier(text):
@@ -71,5 +71,6 @@ if __name__ == '__main__':
         time.sleep(10)
 
     
+
 
 
